@@ -1,0 +1,66 @@
+{
+  "peoples": {
+    "person": [
+      {
+        "id": 1,
+        "name": "Денис Іваненко",
+        "address": {
+          "city": "Чернівці",
+          "street": "Зелена",
+          "house": 45,
+          "apartmentNumber": 13
+        },
+        "contacts": {
+          "telephoneNumber": "+380965387793",
+          "email": "denisinanenko@gmail.com",
+          "telegram": "@denis2357"
+        }
+      },
+      {
+        "id": 2,
+        "name": "Олеся Кіщук",
+        "address": {
+          "city": "Ужгород",
+          "street": "Шевченка",
+          "house": 17,
+          "apartmentNumber": 8
+        },
+        "contacts": {
+          "telephoneNumber": "+380665108186",
+          "email": "olesyakishuk7@gmail.com",
+          "telegram": "@Olesya02"
+        }
+      },
+      {
+        "id": 3,
+        "name": "Марія Синякова",
+        "address": {
+          "city": "Черкаси",
+          "street": "Грушевського",
+          "house": 16,
+          "apartmentNumber": 25
+        },
+        "contacts": {
+          "telephoneNumber": "+380508433967",
+          "email": "mariasinyak666@gmail.com",
+          "telegram": "@Masha228"
+        }
+      },
+      {
+        "id": 4,
+        "name": "Олександр Гречко",
+        "address": {
+          "city": "Київ",
+          "street": "Квітки-Основ'яненка",
+          "house": 6,
+          "apartmentNumber": 22
+        },
+        "contacts": {
+          "telephoneNumber": "+380954898954",
+          "email": "olexandrgrecha09@gmail.com",
+          "telegram": "@Alex956kk"
+        }
+      }
+    ]
+  }
+}

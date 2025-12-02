@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<peoples>
+	<person>
+		<id>1</id>
+		<name>Денис Іваненко</name>
+		<address>
+			<city>Чернівці</city>
+			<street>Зелена</street>
+			<house>45</house>
+			<apartmentNumber>13</apartmentNumber>
+		</address>
+		<contacts>
+			<telephoneNumber>+380965387793</telephoneNumber>
+			<email>denisinanenko@gmail.com</email>
+			<telegram>@denis2357</telegram>
+		</contacts>
+	</person>
+	<person>
+		<id>2</id>
+		<name>Олеся Кіщук</name>
+		<address>
+			<city>Ужгород</city>
+			<street>Шевченка</street>
+			<house>17</house>
+			<apartmentNumber>8</apartmentNumber>
+		</address>
+		<contacts>
+			<telephoneNumber>+380665108186</telephoneNumber>
+			<email>olesyakishuk7@gmail.com</email>
+			<telegram>@Olesya02</telegram>
+		</contacts>
+	</person>
+	<person>
+		<id>3</id>
+		<name>Марія Синякова</name>
+		<address>
+			<city>Черкаси</city>
+			<street>Грушевського</street>
+			<house>16</house>
+			<apartmentNumber>25</apartmentNumber>
+		</address>
+		<contacts>
+			<telephoneNumber>+380508433967</telephoneNumber>
+			<email>mariasinyak666@gmail.com</email>
+			<telegram>@Masha228</telegram>
+		</contacts>
+	</person>
+	<person>
+		<id>4</id>
+		<name>Олександр Гречко</name>
+		<address>
+			<city>Київ</city>
+			<street>Квітки-Основ'яненка</street>
+			<house>6</house>
+			<apartmentNumber>22</apartmentNumber>
+		</address>
+		<contacts>
+			<telephoneNumber>+380954898954</telephoneNumber>
+			<email>olexandrgrecha@gmail.com</email>
+			<telegram>Alex956kk</telegram>
+		</contacts>
+	</person>
+</peoples>
